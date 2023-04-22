@@ -1,0 +1,20 @@
+3
+
+>Furnitures<
+Chimney-What type of furniture is typically associated with a chimney?
+Hammock-What type of furniture is designed for relaxation and typically hung between two trees or posts?
+Armchair-What type of furniture is designed for one person to sit in and often has armrests?
+Inflatable mattress-What type of furniture is typically used for sleeping and can be easily inflated and deflated?
+Rug-What type of furniture is used to cover a floor and add warmth and comfort?
+
+>Animals<
+Coyote-What type of animal is a canine native to North America and known for its howling?
+Armadillo-What type of animal is a small mammal with a hard, bony shell covering its body?
+Tiger-What type of animal is a large feline with distinctive stripes and found in Asia?
+
+>Colors<
+Cyan-What color is a greenish-blue hue often used in graphic design and printing?
+Olive-What color is a dark yellowish-green hue often associated with Mediterranean cuisine?
+Lemon_yellow-What color is a bright yellow hue resembling the color of a lemon fruit?
+Orange-What color is a bright, warm hue that is a mix of yellow and red?
+Red-What color is a warm hue often associated with love, passion, and danger
